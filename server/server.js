@@ -4,6 +4,8 @@ const cors = require("cors");
 const path = require("path")
 app.use(cors());
 
+
+
 app.use(express.static(path.join(__dirname,"build")));
 
 app.get('/',(req,res)=>{
