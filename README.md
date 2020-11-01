@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Static server for Build
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the Server folder There is server.js File run it using node after installing dependencis to see the Output on Port 5000
 
 ## Available Scripts
 
